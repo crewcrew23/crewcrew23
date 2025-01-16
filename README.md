@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👋 My name is Vasiliy, i am a back-end developer, currently a 3rd year college student.
-- 🚀 Now I'm working on my pet projects
+- 🚀 Now I'm working on my projects
 - 🌱 I am also developing in the field of testing
 
 # 💻 Tech Stack:
