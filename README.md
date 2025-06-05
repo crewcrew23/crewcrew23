@@ -19,7 +19,7 @@ Notable project: part of the team behind the dating service **Tag Mate**.
 
 ---
 
-## 📊 GitHub Статистика / Stats
+## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crewcrew23&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crewcrew23&layout=compact&theme=tokyonight)
