@@ -25,10 +25,3 @@ Notable project: part of the team behind the dating service **Tag Mate**.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crewcrew23&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crewcrew23&show_icons=true&theme=tokyonight)
 
----
-
-## 📈 Contribution Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=crewcrew23&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
