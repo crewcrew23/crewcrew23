@@ -9,7 +9,7 @@ Notable project: part of the team behind the dating service **Tag Mate**.
 ## 🛠️ Technologies & Tools
 
 ![Golang](https://img.shields.io/badge/-Golang-181717?style=flat-square&logo=go)
-![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-181717?style=flat-square&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-181717?style=flat-square&logo=redis)
